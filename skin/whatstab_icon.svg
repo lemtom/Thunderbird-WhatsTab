@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:ns="&amp;#38;ns_sfw;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Content"
+   x="0px"
+   y="0px"
+   viewBox="0 0 6596.059 6596.0593"
+   enable-background="new 0 0 6596.059 6592.51"
+   xml:space="preserve"
+   sodipodi:docname="google_keep_icon.svg"
+   width="6596.0591"
+   height="6596.0591"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"><defs
+   id="defs40" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1015"
+   id="namedview38"
+   showgrid="false"
+   inkscape:zoom="0.046998179"
+   inkscape:cx="-1012.8173"
+   inkscape:cy="3451.6679"
+   inkscape:window-x="1920"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g76"
+   inkscape:document-rotation="0" />
+<metadata
+   id="metadata85">
+	<rdf:RDF>
+		<cc:Work
+   rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type
+   rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title>Google Keep</dc:title>
+		</cc:Work>
+	</rdf:RDF>
+	<ns:sfw>
+		<ns:slices />
+		<ns:sliceSourceBounds
+   bottomLeftOrigin="true"
+   height="7890.146"
+   width="7894.421"
+   x="-3201.925"
+   y="-4497.927">
+			</ns:sliceSourceBounds>
+	</ns:sfw>
+</metadata>
+<filter
+   height="192"
+   id="material-drop-shadow"
+   width="192"
+   x="-24"
+   y="-24">
+	<feGaussianBlur
+   id="feGaussianBlur10"
+   in="SourceGraphic"
+   result="blur"
+   stdDeviation="4" />
+	<feOffset
+   dx="4"
+   dy="4"
+   id="feOffset12"
+   in="blur"
+   result="offsetBlurredGraphic" />
+</filter>
+<g
+   id="g76"
+   transform="translate(0,3.5493231)"><path
+   id="path857"
+   style="fill:#37c837;fill-rule:evenodd;stroke:#165116;stroke-width:200;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 3608.5957 154.7168 A 2809.5999 2809.5999 0 0 0 799.65039 2964.3164 A 2809.5999 2809.5999 0 0 0 1223.6113 4448.4258 C 1034.8639 5166.3344 639.00161 5789.3729 200.40625 6392.8359 C 1276.2361 6270.8068 2351.5273 6148.1548 3180.7305 5741.0449 A 2809.5999 2809.5999 0 0 0 3609.25 5773.916 A 2809.5999 2809.5999 0 0 0 6418.8496 2964.3164 A 2809.5999 2809.5999 0 0 0 3609.25 154.7168 A 2809.5999 2809.5999 0 0 0 3608.5957 154.7168 z "
+   transform="translate(0,-3.5493231)" />
+	
+	
+		<radialGradient
+   id="path74_1_"
+   cx="465.31589"
+   cy="2618.032"
+   r="6080.5532"
+   gradientTransform="matrix(1.2639,0,0,1.2632,-389.1291,-3094.8689)"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF;stop-opacity:0.1"
+   id="stop30" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   id="stop32" />
+	</radialGradient>
+	
+</g>
+</svg>

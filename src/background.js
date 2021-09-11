@@ -4,7 +4,7 @@ function debug_msg(message){
   if(is_release){
     return;
   }
-  console.debug("Google-Keep-Tab: " + message);
+  console.debug("Whatstab: " + message);
 }
 
 debug_msg("Loading");
@@ -18,10 +18,10 @@ if ("browserAction" in browser) {
   debug_msg("Has permision for browserAction");
 
   browser.browserAction.onClicked.addListener(async () => {
-    openNewTab("https://keep.google.com");
+    openNewTab("http://web.whatsapp.com");
   });
 } else {
-  openNewTab("https://keep.google.com");
+  openNewTab("http://web.whatsapp.com");
 }
 
 debug_msg("Loaded");
