@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "applications": {
     "gecko": {
-      "id": "lemmens.tom11@gmail.com",
+      "id": "whatstab@addon",
       "strict_min_version": "78.0"
     }
   },
@@ -24,5 +24,9 @@
     "scripts": [
       "src/background.js"
     ]
-  }
+  },
+    "permissions": [
+    "*://*.whatsapp.com/*",
+    "webRequest", "webRequestBlocking"
+  ]
 }
